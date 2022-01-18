@@ -7,9 +7,9 @@ name = "pypi"
 icalendar = "*"
 lxml = "*"
 flask = "*"
-ipython = "*"
 
 [dev-packages]
+ipython = "*"
 
 [requires]
 python_version = "3.9"
